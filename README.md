@@ -1,2 +1,2 @@
 # Simple-Web-App
-A simple web app with functional CRUD operations and uses SQL queries. 
+A simple web app built with Python/Flask with functional CRUD operations and uses SQL queries. 
